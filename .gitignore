@@ -1,0 +1,9 @@
+.DS_Store
+.env/
+hugobricks/**
+utils/__pycache__/
+demo_images/
+target_images_concepts.json
+target_index.md
+target_snapshot.png
+target.css
